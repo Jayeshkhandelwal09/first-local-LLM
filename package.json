@@ -1,0 +1,24 @@
+{
+  "name": "first-local-llm",
+  "version": "1.0.0",
+  "description": "A Node.js script to interact with local AI models using Ollama programmatically",
+  "main": "ollama-chat.js",
+  "scripts": {
+    "start": "node ollama-chat.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayeshkhandelwal09/first-local-LLM.git"
+  },
+  "keywords": ["ollama", "llm", "ai", "local", "nodejs", "chat"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayeshkhandelwal09/first-local-LLM/issues"
+  },
+  "homepage": "https://github.com/Jayeshkhandelwal09/first-local-LLM#readme",
+  "dependencies": {
+    "axios": "^1.7.9"
+  }
+}
