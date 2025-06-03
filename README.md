@@ -8,6 +8,11 @@ A simple Node.js script to interact with local AI models using Ollama programmat
 - Node.js (v14 or higher)
 - Homebrew (for macOS)
 
+### Screenshots
+<img width="1235" alt="Screenshot 2025-06-03 at 10 04 41 AM" src="https://github.com/user-attachments/assets/38433b53-d968-4533-9e01-dd080593dfe5" />
+<img width="1276" alt="Screenshot 2025-06-03 at 10 04 50 AM" src="https://github.com/user-attachments/assets/fc15c3cc-6939-4e2e-892e-e32f742067d5" />
+
+
 ### Installation & Setup
 
 1. **Install Ollama:**
